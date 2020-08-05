@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">accelerator_meter</string>
+    <string name="check_sensors">Check sensors</string>
+    <string name="task1">task1</string>
+    <string name="task2">task2</string>
+    <string name="task3">task3</string>
+    <string name="show_sensor_list">Show Sensor List</string>
+    <string name="show_the_orientation">Show the orientation</string>
+    <string name="show_the_acceleration">Show the acceleration</string>
+</resources>

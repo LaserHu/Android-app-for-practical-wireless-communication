@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiDirect</string>
+    <string name="search_peers">Search Peers</string>
+    <string name="button">Button</string>
+    <string name="check">check</string>
+    <string name="switch_wifi">switch wifi</string>
+</resources>
